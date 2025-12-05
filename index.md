@@ -1,3 +1,13 @@
+<style>
+body {
+  background-image: url("https://sadhost.neocities.org/images/tiles/purpdimond.gif");
+  background-repeat: repeat;
+  background-size: auto;
+  color: white;
+}
+</style>
+
+
 ! COMING SOON !    
 Website coming soon.
 
