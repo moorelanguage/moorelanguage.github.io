@@ -9,7 +9,7 @@ body {
 
 
 ! COMING SOON !    
-Main Website Page coming soon.
+Main Website Page coming soon. [About Me](https://moorelanguage.github.io/moorelanguage/)   
 
 [My Ultimate Lenape Language List](https://moorelanguage.github.io/Ultimate-Lenape/)    
 [Temp Kaxkeni](https://moorelanguage.github.io/Temp-Kaxkeni/)
