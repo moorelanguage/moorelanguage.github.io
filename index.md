@@ -11,7 +11,7 @@ body {
 ! COMING SOON !    
 Main Website Page coming soon.
 
-[My Ultimate Lenape Language List](https://moorelanguage.github.io/Ultimate-Lenape/)
+[My Ultimate Lenape Language List](https://moorelanguage.github.io/Ultimate-Lenape/)    
 [Temp Kaxkeni](https://moorelanguage.github.io/Temp-Kaxkeni/)
 
 Other Repo:        
